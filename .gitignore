@@ -1,4 +1,5 @@
 instructions/
+package-lock.json
 
 # Logs
 logs
