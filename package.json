@@ -1,10 +1,10 @@
 {
-  "name": "book-search",
+  "name": "book-search-engine",
   "version": "1.0.0",
-  "description": "",
   "engines": {
     "node": "14.x"
   },
+  "description": "",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
